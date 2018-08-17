@@ -11,6 +11,7 @@ Requirements
 
 * Python 3.4
 * Cython >= 0.28.4
+* OpenMP
 * Numpy
 
 Installation
