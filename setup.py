@@ -17,7 +17,7 @@ setup(
     name = "minkfncts2d",
     author = 'Moutaz Haq',
     description = 'An implemention of the 2D Minkowski Functionals using Cython and OpenMP.',
-    url = 'https://github.com/cefarix/minkfncts2d',
+    url = 'https://github.com/moutazhaq/minkfncts2d',
     keywords = 'Minkowski Functionals',
     cmdclass = {"build_ext": build_ext},
     ext_modules = ext_modules
